@@ -4,5 +4,5 @@ echo "# Minecraft-Biomes-o-Plenty-Installer-mod" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/Xtda221/Minecraft-Biomes-o-Plenty-Installer-mod.git
+echo hi
 git push -u origin master
